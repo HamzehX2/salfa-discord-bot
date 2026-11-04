@@ -315,4 +315,4 @@ async def leaderboard(ctx):
 async def on_ready():
     print(f'تم تشغيل البوت بنجاح باسم: {bot.user}')
 
-bot.run('MTU1MTk0NTY5Nzk1NDExMTU0Mg.G7o6kJ.d_6MSVl51oEafiw09gqF3LBajJ650vRZQsikMA')
+bot.run('Missing part')
